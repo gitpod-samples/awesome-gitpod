@@ -36,6 +36,10 @@ About this section. Optional. Keep this short and focus on the list.
 - [Magento2](https://github.com/nemke82/magento2gitpod)
 - [Wordpress](https://github.com/luizbills/gitpod-wordpress)
 
+### Go
+
+- [DDEV-Local](https://github.com/drud/ddev)
+
 ## Guides
 
 - [Deepcode by Synk](https://www.deepcode.ai/blog/syntax-versus-semantics-by-using-some-gitpod)
