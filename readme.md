@@ -40,6 +40,12 @@ About this section. Optional. Keep this short and focus on the list.
 
 - [DDEV-Local](https://github.com/drud/ddev)
 
+### Node.js
+
+- [Hoprnet](https://github.com/hoprnet/hoprnet)
+- [Ethereum + NextJs Workshop](https://github.com/dabit3/polygon-ethereum-nextjs-marketplace)
+- [Subgraph by TheGraph.com Workshop](https://github.com/pi0neerpat/thegraph-hacker-kit)
+
 ## Guides
 
 - [Deepcode by Synk](https://www.deepcode.ai/blog/syntax-versus-semantics-by-using-some-gitpod)
