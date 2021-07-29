@@ -35,6 +35,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Laravel](https://github.com/apolopena/gitpod-laravel-starter)
 - [Magento2](https://github.com/nemke82/magento2gitpod)
 - [Wordpress](https://github.com/luizbills/gitpod-wordpress)
+- [phpMyAdmin](https://github.com/apolopena/gitpod-phpmyadmin)
 
 ### Go
 
@@ -45,6 +46,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Hoprnet](https://github.com/hoprnet/hoprnet)
 - [Ethereum + NextJs Workshop](https://github.com/dabit3/polygon-ethereum-nextjs-marketplace)
 - [Subgraph by TheGraph.com Workshop](https://github.com/pi0neerpat/thegraph-hacker-kit)
+- [Express + React + MySQL](https://github.com/apolopena/express-react-starter)
 
 ## Guides
 
