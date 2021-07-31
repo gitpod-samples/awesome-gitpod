@@ -8,7 +8,7 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Add projects in the appropiate section in alphabetical order.
+- Add projects in the appropriate section in alphabetical order.
 - If a section does not exist you may of course add one.
 - Only add projects that work, preferably vetted by multiple sources.
 
