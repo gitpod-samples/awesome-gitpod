@@ -16,7 +16,6 @@
 - [Official Resources](#official-resources)
 - [Projects](#projects)
   - [PHP](#php)
-- [Tools](#tools)
 - [Guides](#guides)
 
 ## Official Resources
@@ -48,12 +47,10 @@ About this section. Optional. Keep this short and focus on the list.
 - [Magento2](https://github.com/nemke82/magento2gitpod)
 - [Wordpress](https://github.com/luizbills/gitpod-wordpress)
 - [phpMyAdmin](https://github.com/apolopena/gitpod-phpmyadmin)
+- [theodorosploumis/gitpod-drupal-workspace (docker image)](https://github.com/theodorosploumis/gitpod-drupal-workspace)
 
 ### Ruby/Rails
 - [React on Rails](https://github.com/apolopena/gp-react-on-rails-starter)
-
-## Tools
-- [theodorosploumis/gitpod-drupal-workspace (docker image)](https://github.com/theodorosploumis/gitpod-drupal-workspace)
 
 ## Guides
 
