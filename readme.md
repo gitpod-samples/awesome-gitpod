@@ -55,6 +55,7 @@ About this section. Optional. Keep this short and focus on the list.
 
 ## Templates
 
+- [template-typescript-vue](https://github.com/gitpod-io/template-typescript-vue)
 - [template-docker-compose](https://github.com/gitpod-io/template-docker-compose)
 - [template-python-django](https://github.com/gitpod-io/template-python-django)
 - [template-python-django-tabnine](https://github.com/gitpod-io/template-python-django-tabnine)
