@@ -16,6 +16,7 @@
 - [Official Resources](#official-resources)
 - [Projects](#projects)
   - [PHP](#php)
+- [Templates](#templates)
 - [Guides](#guides)
 
 ## Official Resources
@@ -51,6 +52,10 @@ About this section. Optional. Keep this short and focus on the list.
 
 ### Ruby/Rails
 - [React on Rails](https://github.com/apolopena/gp-react-on-rails-starter)
+
+## Templates
+
+- [template-typescript-vue](https://github.com/gitpod-io/template-typescript-vue)
 
 ## Guides
 
