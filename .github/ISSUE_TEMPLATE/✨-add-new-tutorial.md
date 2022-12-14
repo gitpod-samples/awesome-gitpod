@@ -1,5 +1,5 @@
 ---
-name: Add New Tutorial
+name: "✨ Add New Tutorial"
 about: 'Submit any Tutorial/Demo to Gitpod Samples '
 title: ''
 labels: good first issue, New demo
