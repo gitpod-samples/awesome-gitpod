@@ -1,9 +1,8 @@
 ---
 name: Add New Tutorial
-about: Contribute any Tutorial/Demo to Gitpod Samples. If this doesn’t look right,
-  choose a different type
+about: 'Submit any Tutorial/Demo to Gitpod Samples '
 title: ''
-labels: ''
+labels: good first issue, New demo
 assignees: ''
 
 ---
