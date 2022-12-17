@@ -50,6 +50,10 @@ About this section. Optional. Keep this short and focus on the list.
 - [phpMyAdmin](https://github.com/apolopena/gitpod-phpmyadmin)
 - [theodorosploumis/gitpod-drupal-workspace (docker image)](https://github.com/theodorosploumis/gitpod-drupal-workspace)
 
+### Phaser.io
+
+- [Phaser Editor 2D IDE + Phaser 3 + Webpack](https://github.com/PhaserEditor2D/starter-template-webpack)
+
 ### Ruby/Rails
 - [React on Rails](https://github.com/apolopena/gp-react-on-rails-starter)
 
