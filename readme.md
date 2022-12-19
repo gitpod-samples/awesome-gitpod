@@ -49,6 +49,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Wordpress](https://github.com/luizbills/gitpod-wordpress)
 - [phpMyAdmin](https://github.com/apolopena/gitpod-phpmyadmin)
 - [theodorosploumis/gitpod-drupal-workspace (docker image)](https://github.com/theodorosploumis/gitpod-drupal-workspace)
+- [Shopware](https://github.com/FriendsOfShopware/gitpod-meta)
 
 ### Ruby/Rails
 - [React on Rails](https://github.com/apolopena/gp-react-on-rails-starter)
