@@ -51,6 +51,10 @@ About this section. Optional. Keep this short and focus on the list.
 - [theodorosploumis/gitpod-drupal-workspace (docker image)](https://github.com/theodorosploumis/gitpod-drupal-workspace)
 - [Shopware](https://github.com/FriendsOfShopware/gitpod-meta)
 
+### Phaser.io
+
+- [Phaser Editor 2D IDE + Phaser 3 + Webpack](https://github.com/PhaserEditor2D/starter-template-webpack)
+
 ### Ruby/Rails
 - [React on Rails](https://github.com/apolopena/gp-react-on-rails-starter)
 
