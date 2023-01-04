@@ -70,11 +70,11 @@ About this section. Optional. Keep this short and focus on the list.
 ## Guides
 
 - [Deepcode by Synk](https://www.deepcode.ai/blog/syntax-versus-semantics-by-using-some-gitpod)
-- [Docker](https://jimmyb.ninja/post/1624204526)
+- [New Gitpod installer](https://jimmyb.ninja/post/1639962229)
 - [Flutter](https://tianhaozhou.medium.com/gitpod-flutter-productivity-on-the-go-for-mobile-app-developers-cc2495049d52)
 - [Gatsby](https://www.gatsbyjs.com/contributing/using-an-online-dev-environment)
 - [Hasura](https://marcopeg.com/2020/hasura-in-gitpod)
-- [Helm Chart](https://jimmyb.ninja/post/1607011905)
+- [Helm Chart](https://jimmyb.ninja/post/1607033505)
 - [Near](https://near.org/blog/near-onboarding-with-gitpod)
 - [NumPy](https://numpy.org/devdocs/dev/development_gitpod.html)
 - [Quarkus 🇬🇧](https://tealfeed.com/develop-java-cloud-thanks-gitpod-ocl9e)
