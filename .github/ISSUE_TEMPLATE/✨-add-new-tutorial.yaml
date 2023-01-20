@@ -1,29 +1,29 @@
-name: ✨ Add New Tutorial
-description: Submit any Tutorial/Demo to Gitpod Samples
+name: ✨ Add New Project
+description: Submit a new tutorial/demo/template/blog/etc. project to Gitpod Samples
 title: "[submission]: "
-labels: ["good first issue", "New demo"]
+labels: ["New demo"]
 assignees:
   - Nancy-Chauhan
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thank you for contributing!
   - type: input
-    id: contact
+    id: owner_project_link
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      label: Project link
+      description: Do you already have a Git repository or some other link for the project?
+      placeholder: for example: https://github.com/benvp/phoenix-gitpod
     validations:
       required: false
   - type: textarea
-    id: what-happened
+    id: description
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Description
+      description: Description of your project and why it could be valuable to others
+      placeholder: Describe as precisely as possible what this new tutorial/demo/template/blog/etc. is about, how should it work and why it's useful. Doesn't have to be long.
+#      value:
     validations:
       required: true
   - type: dropdown
@@ -37,26 +37,27 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: browsers
+    id: whatisthis
     attributes:
-      label: What browsers are you seeing the problem on?
+      label: What is this?
       multiple: true
       options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+        - Template
+        - Demo
+        - Tutorial
+        - Blog/article
+        - YouTube video
+        - Something else
   - type: textarea
-    id: logs
+    id: extra_context
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
+      label: Additional context/comments
+      description: Any additional related comments/context that might help.
   - type: checkboxes
     id: terms
     attributes:
       label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/gitpod-samples/.github/blob/main/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct)
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
