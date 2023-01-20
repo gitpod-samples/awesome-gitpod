@@ -13,8 +13,8 @@ body:
     id: owner_project_link
     attributes:
       label: "Project link"
-      description: "Do you already have a Git repository or some other link for the project?"
-      placeholder: "for ex. https://github.com/benvp/phoenix-gitpod"
+      description: "Do you already have a Git repository or some other link for the project? (for example: https://github.com/benvp/phoenix-gitpod)"
+      placeholder: "https://github.com/your/cool_repo"
     validations:
       required: false
       
