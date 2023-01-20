@@ -17,21 +17,11 @@ body:
       placeholder: "https://github.com/your/cool_repo"
     validations:
       required: false
-      
-  - type: textarea
-    id: description
-    attributes:
-      label: "Description"
-      description: "Description of your project and why it could be valuable to others."
-      placeholder: "Describe as precisely as possible what this new tutorial/demo/template/blog/etc. is about, how should it work and why it's useful. Doesn't have to be long."
-#      value:
-    validations:
-      required: true
-      
+
   - type: dropdown
-    id: whatisthis
+    id: kind
     attributes:
-      label: "What is this?"
+      label: "Kind"
       multiple: true
       options:
         - "Template"
@@ -39,6 +29,17 @@ body:
         - "Tutorial"
         - "Blog/article"
         - "YouTube video"
+
+  - type: textarea
+    id: whatisthis
+    attributes:
+      label: "What is this?"
+      description: "Description of your project and why it could be valuable to others."
+      placeholder: "Describe as precisely as possible what this new tutorial/demo/template/blog/etc. is about, how should it work and why it's useful. Doesn't have to be long."
+#      value:
+    validations:
+      required: true
+      
   - type: textarea
     id: extra_context
     attributes:
