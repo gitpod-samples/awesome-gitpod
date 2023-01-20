@@ -1,5 +1,3 @@
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
-
 <p align="center">
   <br>
   <img width="200" src="./assets/logo.svg" alt="logo of gitpod">
@@ -11,24 +9,24 @@
 
 > A curated list of awesome Gitpod resources.
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
+
 ## Contents
 
 - [Official Resources](#official-resources)
-- [Projects](#projects)
+- [Community Contributions](#community-contributions)
   - [PHP](#php)
 - [Templates](#templates)
 - [Guides](#guides)
 
 ## Official Resources
 
-About this section. Optional. Keep this short and focus on the list.
-
-- [Main website](https://www.gitpod.io)
-- [Documentation](https://www.gitpod.io/docs)
+- [**Official Quickstart & Templates**](https://www.gitpod.io/docs/introduction/getting-started/quickstart)
+- [**Official Documentation**](https://www.gitpod.io/docs)
 - [Frictionless Contributions](https://contribute.dev)
 - [Community](https://community.gitpod.io)
 
-## Projects
+### Community Contributions
 
 ### Go
 
@@ -56,6 +54,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Phaser Editor 2D IDE + Phaser 3 + Webpack](https://github.com/PhaserEditor2D/starter-template-webpack)
 
 ### Ruby/Rails
+
 - [React on Rails](https://github.com/apolopena/gp-react-on-rails-starter)
 
 ## Templates
@@ -85,4 +84,4 @@ About this section. Optional. Keep this short and focus on the list.
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/gitpod-samples/.github/blob/HEAD/CONTRIBUTING.md) first.
