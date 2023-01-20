@@ -7,57 +7,49 @@ assignees:
 body:
   - type: markdown
     attributes:
-      value: |
-        Thank you for contributing!
+      value: "Thank you for contributing!"
+      
   - type: input
     id: owner_project_link
     attributes:
-      label: Project link
-      description: Do you already have a Git repository or some other link for the project?
-      placeholder: for example: https://github.com/benvp/phoenix-gitpod
+      label: "Project link"
+      description: "Do you already have a Git repository or some other link for the project?"
+      placeholder: "for example: https://github.com/benvp/phoenix-gitpod"
     validations:
       required: false
+      
   - type: textarea
     id: description
     attributes:
-      label: Description
-      description: Description of your project and why it could be valuable to others
-      placeholder: Describe as precisely as possible what this new tutorial/demo/template/blog/etc. is about, how should it work and why it's useful. Doesn't have to be long.
+      label: "Description"
+      description: "Description of your project and why it could be valuable to others."
+      placeholder: "Describe as precisely as possible what this new tutorial/demo/template/blog/etc. is about, how should it work and why it's useful. Doesn't have to be long."
 #      value:
     validations:
       required: true
-  - type: dropdown
-    id: version
-    attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
-    validations:
-      required: true
+      
   - type: dropdown
     id: whatisthis
     attributes:
-      label: What is this?
+      label: "What is this?"
       multiple: true
       options:
-        - Template
-        - Demo
-        - Tutorial
-        - Blog/article
-        - YouTube video
-        - Something else
+        - "Template"
+        - "Demo"
+        - "Tutorial"
+        - "Blog/article"
+        - "YouTube video"
+        - "Something else"
   - type: textarea
     id: extra_context
     attributes:
-      label: Additional context/comments
-      description: Any additional related comments/context that might help.
+      label: "Additional context/comments"
+      description: "Any additional related comments/context that might help."
   - type: checkboxes
     id: terms
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/gitpod-samples/.github/blob/main/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct)
+      label: "Code of Conduct"
+      description: "By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/gitpod-samples/.github/blob/main/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct)"
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: "I agree to follow this project's Code of Conduct"
           required: true
