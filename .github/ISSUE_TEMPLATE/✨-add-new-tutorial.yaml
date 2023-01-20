@@ -14,7 +14,7 @@ body:
     attributes:
       label: "Project link"
       description: "Do you already have a Git repository or some other link for the project?"
-      placeholder: "for example: https://github.com/benvp/phoenix-gitpod"
+      placeholder: "for ex. https://github.com/benvp/phoenix-gitpod"
     validations:
       required: false
       
