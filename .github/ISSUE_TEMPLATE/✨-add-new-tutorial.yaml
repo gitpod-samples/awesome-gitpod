@@ -39,7 +39,6 @@ body:
         - "Tutorial"
         - "Blog/article"
         - "YouTube video"
-        - "Something else"
   - type: textarea
     id: extra_context
     attributes:
