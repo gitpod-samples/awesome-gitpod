@@ -81,6 +81,7 @@
 - [React](https://itnext.io/how-to-use-gitpod-in-your-create-react-app-based-project-dd4d0b33ce77)
 - [Tasmota](https://tasmota.github.io/docs/Gitpod)
 - [Uno](https://platform.uno/blog/uno-platform-2-0-reloaded-gitpod-integration)
+- [Wagtail](https://wagtail.org/blog/gitpod/)
 
 ## Contribute
 
