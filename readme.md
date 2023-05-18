@@ -13,11 +13,19 @@
 
 ## Contents
 
-- [Official Resources](#official-resources)
-- [Community Contributions](#community-contributions)
-  - [PHP](#php)
-- [Templates](#templates)
-- [Guides](#guides)
+- [Awesome Gitpod ](#awesome-gitpod-)
+  - [Contents](#contents)
+  - [Official Resources](#official-resources)
+    - [Community Contributions](#community-contributions)
+    - [AI](#ai)
+    - [Go](#go)
+    - [Node.js](#nodejs)
+    - [PHP](#php)
+    - [Phaser.io](#phaserio)
+    - [Ruby/Rails](#rubyrails)
+  - [Templates](#templates)
+  - [Guides](#guides)
+  - [Contribute](#contribute)
 
 ## Official Resources
 
@@ -27,6 +35,10 @@
 - [Community](https://community.gitpod.io)
 
 ### Community Contributions
+
+### AI
+
+- [Mattermost + Serge + ChatGPT4All + Gitpod](https://github.com/mattermost/mattermost-ai-framework)
 
 ### Go
 
