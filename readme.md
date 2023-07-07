@@ -39,6 +39,8 @@
 ### AI
 
 - [Mattermost + Serge + ChatGPT4All + Gitpod](https://github.com/mattermost/mattermost-ai-framework)
+- [BlogGPT + LangChain + Gitpod](https://github.com/yaohui-wyh/blog_gpt)
+
 
 ### Go
 
