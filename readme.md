@@ -101,7 +101,7 @@
 - [Uno](https://platform.uno/blog/uno-platform-2-0-reloaded-gitpod-integration)
 - [Wagtail](https://wagtail.org/blog/gitpod/)
 
-## Guides
+## Tools
 - [GPT - A CLI Tool for Gitpod for Web Development](https://github.com/Derroylo/gitpod-tool) - [Documentation](https://derroylo.github.io/)
 
 ## Contribute
