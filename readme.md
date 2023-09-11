@@ -62,6 +62,10 @@
 - [phpMyAdmin](https://github.com/apolopena/gitpod-phpmyadmin)
 - [theodorosploumis/gitpod-drupal-workspace (docker image)](https://github.com/theodorosploumis/gitpod-drupal-workspace)
 - [Shopware](https://github.com/FriendsOfShopware/gitpod-meta)
+- [Shopware with GPT](https://github.com/Derroylo/shopware-workspace-sample)
+- [Oxid with GPT](https://github.com/Derroylo/oxid-workspace-sample)
+- [Sulu with GPT](https://github.com/Derroylo/sulu-workspace-sample)
+- [Symfony with GPT](https://github.com/Derroylo/symfony-workspace-sample)
 
 ### Phaser.io
 
@@ -96,6 +100,9 @@
 - [Tasmota](https://tasmota.github.io/docs/Gitpod)
 - [Uno](https://platform.uno/blog/uno-platform-2-0-reloaded-gitpod-integration)
 - [Wagtail](https://wagtail.org/blog/gitpod/)
+
+## Guides
+- [GPT - A CLI Tool for Gitpod for Web Development](https://github.com/Derroylo/gitpod-tool) - [Documentation](https://derroylo.github.io/)
 
 ## Contribute
 
